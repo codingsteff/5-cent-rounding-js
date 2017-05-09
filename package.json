@@ -1,0 +1,14 @@
+{
+  "name": "5-cent-rounding-js",
+  "version": "1.0.0",
+  "description": "5 cent rounding for Swiss franc",
+  "main": "5-cent-rounding.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "coding.steff",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
